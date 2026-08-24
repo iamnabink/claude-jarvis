@@ -39,3 +39,7 @@ desktop-overlay/node_modules/
 context/
 *.db-shm
 *.db-wal
+
+# Runtime (start.sh / stop.sh)
+.run/
+logs/
